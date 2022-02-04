@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Asmi1710
 - 👀 I’m interested in learning and growing
 - 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on any interesting project :)
+- 🤝 I’m looking to collaborate on any interesting project :)
 - 📫 How to reach me: Check my CV 
 
 <!---
